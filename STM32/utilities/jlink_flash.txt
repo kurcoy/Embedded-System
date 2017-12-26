@@ -1,0 +1,7 @@
+h
+speed auto
+exec device = STM32F103VE
+loadbin ./Debug/Eclipse_STM32.bin 0x08000000
+r
+g
+qc

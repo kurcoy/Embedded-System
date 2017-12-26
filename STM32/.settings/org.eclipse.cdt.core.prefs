@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1223521109.1825878155/CWD/delimiter=;
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1223521109.1825878155/CWD/operation=replace
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1223521109.1825878155/CWD/value=C\:\\Users\\zhc1don\\STM32\\FreeRtos-STM32F103\\build
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1223521109.1825878155/PWD/delimiter=;
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1223521109.1825878155/PWD/operation=replace
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1223521109.1825878155/PWD/value=C\:\\Users\\zhc1don\\STM32\\FreeRtos-STM32F103\\build
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1223521109.1825878155/append=true
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1223521109.1825878155/appendContributed=true
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1223521109/CWD/delimiter=;
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1223521109/CWD/operation=replace
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1223521109/CWD/value="${workspace_loc\:/${ProjName}/Debug}"
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1223521109/PWD/delimiter=;
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1223521109/PWD/operation=replace
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1223521109/PWD/value=C\:\\Users\\Cliff\\git\\FreeRtos-STM32F103\\Debug
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1223521109/append=true
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.toolchain.base.1223521109/appendContributed=true
